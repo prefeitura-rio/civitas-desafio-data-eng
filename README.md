@@ -85,6 +85,7 @@ O repositório público no GitHub deve conter:
 - [Docker Agent - Prefect](https://docs-v1.prefect.io/orchestration/agents/docker.html)
 - [API do BRT](https://www.data.rio/documents/PCRJ::transporte-rodovi%C3%A1rio-api-de-gps-do-brt/about?path=)
 - [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/)
+- [Pipelines rj-civitas](https://github.com/prefeitura-rio/pipelines_rj_civitas/)
 
 ## Dúvidas?
 
